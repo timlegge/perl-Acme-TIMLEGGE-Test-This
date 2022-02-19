@@ -12,3 +12,17 @@ sub new {
 }
 
 1;
+
+__END__
+=pod
+
+=head1 DESCRIPTION
+
+This is a test module to allo testing the release process
+
+=head2 new()
+
+Don't do any thing
+
+=cut
+
