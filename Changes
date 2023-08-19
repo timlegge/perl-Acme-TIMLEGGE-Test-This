@@ -2,6 +2,10 @@ Revision history for Acme::TIMLEGGE::Test::This
 
 {{$NEXT}}
 
+0.0002 -- Sat Aug 19 10:24:57 ADT 2023
+
+    - Add Github::Release
+
 0.0001 -- Sat Feb 19 12:53:24 AST 2022
 
 0.0001 -- Sat Feb 19 12:50:35 AST 2022
