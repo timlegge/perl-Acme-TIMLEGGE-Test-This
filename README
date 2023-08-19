@@ -2,7 +2,7 @@ NAME
     Acme::TIMLEGGE::Test::This - Test Release Process
 
 VERSION
-    version 0.0001
+    version 0.0002
 
 DESCRIPTION
     This is a test module to allo testing the release process
@@ -14,7 +14,7 @@ AUTHOR
     Timothy Legge
 
 COPYRIGHT AND LICENSE
-    This software is copyright (c) 2022 by Timothy Legge.
+    This software is copyright (c) 2023 by Timothy Legge.
 
     This is free software; you can redistribute it and/or modify it under
     the same terms as the Perl 5 programming language system itself.
