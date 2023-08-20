@@ -16,7 +16,7 @@ my %WriteMakefileArgs = (
   "MIN_PERL_VERSION" => "5.008",
   "NAME" => "Acme::TIMLEGGE::Test::This",
   "PREREQ_PM" => {},
-  "VERSION" => "0.0045",
+  "VERSION" => "0.0046",
   "test" => {
     "TESTS" => "t/*.t"
   }
