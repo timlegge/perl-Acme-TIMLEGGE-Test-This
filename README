@@ -2,7 +2,7 @@ NAME
     Acme::TIMLEGGE::Test::This - Test Release Process
 
 VERSION
-    version 0.0068
+    version 0.0069
 
 DESCRIPTION
     This is a test module to allo testing the release process
