@@ -3,7 +3,7 @@ use warnings;
 
 # ABSTRACT: Test Release Process
 
-our $VERSION = "0.0001";
+our $VERSION = "0.0146";
 
 package Acme::TIMLEGGE::Test::This;
 
